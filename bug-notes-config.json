@@ -1,0 +1,40 @@
+{
+  "theme": "dark",
+  "transparency": 0.98,
+  "colors": {
+    "dark": {
+      "bg": "#111418",
+      "fg": "#E6E6E6",
+      "panel": "#171B20",
+      "accent": "#6EA8FE",
+      "muted": "#9AA4AF",
+      "entry_bg": "#0E1116",
+      "entry_fg": "#E6E6E6",
+      "list_bg": "#0E1116",
+      "list_fg": "#E6E6E6",
+      "button_bg": "#20252B",
+      "button_fg": "#E6E6E6",
+      "separator": "#2A3139",
+      "select_bg": "#22324A",
+      "select_fg": "#FFFFFF",
+      "link": "#86B7FE"
+    },
+    "light": {
+      "bg": "#F7F7F9",
+      "fg": "#1F2328",
+      "panel": "#FFFFFF",
+      "accent": "#0D6EFD",
+      "muted": "#6C757D",
+      "entry_bg": "#FFFFFF",
+      "entry_fg": "#1F2328",
+      "list_bg": "#FFFFFF",
+      "list_fg": "#1F2328",
+      "button_bg": "#E9ECEF",
+      "button_fg": "#1F2328",
+      "separator": "#DEE2E6",
+      "select_bg": "#CCE5FF",
+      "select_fg": "#0B3D91",
+      "link": "#0D6EFD"
+    }
+  }
+}
